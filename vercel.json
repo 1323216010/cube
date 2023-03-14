@@ -6,7 +6,7 @@
         },
         {
             "source": "/b1",
-            "destination": "https://www.baidu.com/s?wd=北京时间"
+            "destination": "http://139.9.92.208:88/"
         }
     ]
 }
