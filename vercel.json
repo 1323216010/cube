@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/b1",
+        "destination": "https://www.baidu.com/s?wd=北京时间"
+      }
+    ]
+}
