@@ -1,8 +1,12 @@
 {
     "rewrites": [
-      {
-        "source": "/b1",
-        "destination": "https://www.baidu.com/s?wd=北京时间"
-      }
+        {
+            "source": "/b",
+            "destination": "https://cube.yan-ui.asia/"
+        },
+        {
+            "source": "/b1",
+            "destination": "https://www.baidu.com/s?wd=北京时间"
+        }
     ]
 }
